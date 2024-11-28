@@ -1,4 +1,5 @@
-[!NOTE] This website is still in progress
+> [!CAUTION]
+> This project is still in progress thus this repo will be changing often. 
 
 ## Project Description: 
 _This project aims to design and implement a digital FM receiver capable of receiving analog FM radio signals and converting them into digital data. The project will include:_
