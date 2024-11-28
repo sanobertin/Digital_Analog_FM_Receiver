@@ -16,9 +16,9 @@ _This project aims to design and implement a digital FM receiver capable of rece
 - Demodulate the signals to extract audio data </br>
 - Convert the audio data into digital format </br>
 - Transmit the digital data to the PC via a serial communication protocol </br>
-**PC Application:**
-- C++: A C++ application will be developed to process the received digital data, potentially for further analysis or storage. </br>
-- C#: A C# application will be created to provide a user-friendly interface for controlling the receiver and visualizing the received data. </br> 
+- **PC Application:**
+  - C++: Program the arduino microcontroller </br>
+  - C#: A C# application will be created to provide a user-friendly interface for controlling the receiver and visualizing the received data. </br> 
 
 **Key Features:**
 - **High-Quality Audio Reception:** The receiver will be optimized for clear and accurate audio reproduction. </br>
