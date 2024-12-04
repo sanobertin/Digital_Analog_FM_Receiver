@@ -45,6 +45,7 @@ _This project aims to design and implement a digital FM receiver capable of rece
 
 
 ### Board Schematic 
-![alt text](https://github.com/sanobertin/sanobertin/blob/master/src/Schematic.jpg?raw=true)
+
+![alt text]([https://github.com/sanobertin/sanobertin/blob/master/src/Schematic.jpg?raw=true](https://github.com/sanobertin/Digital_Analog_FM_Receiver/blob/master/src/Schematic.jpg)
 
 ### PCB
