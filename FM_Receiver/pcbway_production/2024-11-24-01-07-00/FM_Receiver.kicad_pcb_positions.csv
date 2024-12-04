@@ -1,0 +1,27 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+109.88,-93.22,-90.0,top,A1,,,ARDUINO UNO R4 WIFI_ABX00087,Arduino_Uno_R4_WiFi_Shield,tht
+160.915,-87.97,0.0,top,C1,,,C_0201_0603Metric,22nF,smt
+164.24,-104.0502,90.0,top,C11,,,CP_Radial_D5.0mm_P2.00mm,500uF_50V,tht
+177.74,-102.9258,90.0,top,C12,,,CP_Radial_D5.0mm_P2.00mm,5uF_50V,tht
+163.7,-96.2,90.0,top,C13,,,CP_Radial_D5.0mm_P2.00mm,5uF_50V,tht
+177.79,-96.2002,90.0,top,C14,,,CP_Radial_D5.0mm_P2.50mm,10µ,tht
+164.915,-87.77,0.0,top,C2,,,C_0201_0603Metric,500µ,smt
+164.59,-121.3002,90.0,top,C3,,,CP_Radial_D5.0mm_P2.00mm,5uF_50V,tht
+169.665,-87.72,0.0,top,C4,,,C_0201_0603Metric,100nF,smt
+177.99,-120.9502,90.0,top,C5,,,CP_Radial_D5.0mm_P2.00mm,5uF_50V,tht
+164.39,-112.2002,90.0,top,C6,,,CP_Radial_D5.0mm_P2.00mm,500uF_50V,tht
+177.79,-111.8502,90.0,top,C7,,,CP_Radial_D5.0mm_P2.00mm,500uF_50V,tht
+174.865,-87.57,0.0,top,C8,,,C_0201_0603Metric,500µ,smt
+179.815,-87.87,0.0,top,C9,,,C_0201_0603Metric,4.5pF,smt
+172.13,-63.31,0.0,top,FM_ANTENNA1,,,MMCX_Molex_73415-1471_Vertical,Antenna,tht
+150.55,-64.61,180.0,top,J1,,,USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles,USB_C_Receptacle_PowerOnly_6P,smt
+177.875,-135.1,0.0,top,LS1,,,PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left,Speaker,smt
+143.29,-115.49,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10k,tht
+142.44,-124.19,0.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,10k,tht
+151.5175,-73.14,0.0,top,R5,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,5K,smt
+155.1175,-72.99,0.0,top,R6,,,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,5K,smt
+84.525,-134.85,0.0,top,RS1,,,PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left,Speaker,smt
+143.63,-106.74,90.0,top,U1,,,DIP-8_W7.62mm,LM380N-8,tht
+143.8,-92.21,90.0,top,U2,,,DIP-8_W7.62mm,LM380N-8,tht
+170.25,-73.75,90.0,top,U3,,,SSOP-24_3.9x8.7mm_P0.635mm,Si4731-D60-GU,smt
+145.25,-76.2525,0.0,top,U4,,,WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm,FUSB302B01MPX,smt

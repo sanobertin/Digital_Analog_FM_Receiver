@@ -40,6 +40,11 @@ _This project aims to design and implement a digital FM receiver capable of rece
 - Google Gemini & GPT 4.xx </br>
 - etc. </br>
 ## Resources: 
-- FM Radio block diagrams: https://users.encs.concordia.ca/~paknys/block.pdf </br>
-- Antenna selection: https://www.ahsystems.com/articles/antenna-selection.php </br>
-- 
+- FM Radio block diagrams: https://users.encs.concordia.ca/~paknys/block.pdf
+- Antenna selection: https://www.ahsystems.com/articles/antenna-selection.php
+
+
+### Board Schematic 
+![alt text](https://github.com/sanobertin/sanobertin/blob/master/src/Schematic.jpg?raw=true)
+
+### PCB

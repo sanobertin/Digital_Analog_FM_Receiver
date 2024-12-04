@@ -1,0 +1,17 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Indicator,Rating
+A1,1,Arduino_Uno_R4_WiFi_Shield,ARDUINO UNO R4 WIFI_ABX00087,,,,tht,Shield for Arduino Uno R4 WiFi,,
+C1,1,22nF,C_0201_0603Metric,,,,smt,"capacitor, non-polarized/bipolar",+,V
+"C11, C6, C7",3,500uF_50V,CP_Radial_D5.0mm_P2.00mm,,,,tht,"22uF, 50V Electrolytic Capacitor",,
+"C12, C13, C3, C5",4,5uF_50V,CP_Radial_D5.0mm_P2.00mm,,,,tht,"22uF, 50V Electrolytic Capacitor",,
+C14,1,10µ,CP_Radial_D5.0mm_P2.50mm,,,,tht,Polarized Capacitor,,
+"C2, C8",2,500µ,C_0201_0603Metric,,,,smt,"capacitor, non-polarized/bipolar",+,V
+C4,1,100nF,C_0201_0603Metric,,,,smt,"capacitor, non-polarized/bipolar",+,V
+C9,1,4.5pF,C_0201_0603Metric,,,,smt,"capacitor, non-polarized/bipolar",+,V
+FM_ANTENNA1,1,Antenna,MMCX_Molex_73415-1471_Vertical,,,,tht,Antenna,,
+J1,1,USB_C_Receptacle_PowerOnly_6P,USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles,,,,smt,USB Power-Only 6P Type-C Receptacle connector,,
+"LS1, RS1",2,Speaker,PinHeader_1x02_P1.00mm_Vertical_SMD_Pin1Left,,,,smt,Speaker,,
+"R1, R2",2,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,"10kΩ, 1/4W Resistor",,
+"R5, R6",2,5K,R_0201_0603Metric_Pad0.64x0.40mm_HandSolder,,,,smt,resistor,+,W
+"U1, U2",2,LM380N-8,DIP-8_W7.62mm,,,,tht,"2.5W Audio Power Amplifier, PDIP-8",,
+U3,1,Si4731-D60-GU,SSOP-24_3.9x8.7mm_P0.635mm,,,,smt,AM/FM Broadcast Radio Receiver with RDS/RBDS,,
+U4,1,FUSB302B01MPX,WQFN-14-1EP_2.5x2.5mm_P0.5mm_EP1.45x1.45mm,,,,smt,"Programmable USB Type-C Controller w/PD, I2C address 0x23, WQFN-14",,
